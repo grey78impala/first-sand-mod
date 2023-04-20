@@ -1,5 +1,5 @@
 //first element
-elements.liquid_glass = {
+elements.test = {
   color: "#c2feff",
   behavior: behaviors.LIQUID,
   category: "liquids",
