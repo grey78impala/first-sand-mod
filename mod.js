@@ -1,11 +1,11 @@
 //first element
-elements.test = {
-  color: "#c2feff",
+elements.MotorOil = {
+  color: "#504340",
   behavior: behaviors.LIQUID,
   category: "liquids",
   viscosity: 100000,
   state: "liquid",
-  density: 720,
+  density: 830,
 }
 // Create a new tool:
 elements.sand_exploder = {
